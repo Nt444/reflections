@@ -11,13 +11,19 @@ Commit many files at ones.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+To put all files necessary there and to commit after only
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+When we need to have more than 1 version of the project.
 
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+As the result we have all the changes made in both branchas
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
